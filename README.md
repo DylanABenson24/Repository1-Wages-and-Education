@@ -1,4 +1,4 @@
-# Repository1
+# Repository 1: Wages and Education
 
 ## DTSC 1302 Final Project - Wage Disparities Analysis
 
