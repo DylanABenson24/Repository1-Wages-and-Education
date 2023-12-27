@@ -27,4 +27,4 @@ The project concludes a persistent wage gap among the studied racial groups, eve
 
 ## Limitations and Future Research
 
-The study acknowledges limitations in its dataset and suggests future research to delve deeper into the causes of wage gaps across demographics.
+The study acknowledges limitations in its dataset and suggests future research to dive deeper into the causes of wage gaps across demographics.
